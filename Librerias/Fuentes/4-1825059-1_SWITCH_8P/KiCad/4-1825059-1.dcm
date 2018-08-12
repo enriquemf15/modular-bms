@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4-1825059-1
+D DIP switch,SMT,SPST,8 pos,flush slide
+K
+F http://uk.rs-online.com/webdocs/0edb/0900766b80edb2d4.pdf
+$ENDCMP
+#
+#End Doc Library

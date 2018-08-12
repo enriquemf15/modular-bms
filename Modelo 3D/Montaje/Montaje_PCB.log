@@ -1,0 +1,30 @@
+Conversión de Solid Edge a STEP
+Fecha: martes,julio 17,2018 11:11
+Archivo de salida: D:\Dropbox\UPM_MotoStudent_PCB\Placas\BMS_PCB_v1.1\3D\Montaje\Montaje_PCB.step
+Autor: Unknown
+Organización: Unknown
+Sistema de origen: Solid Edge
+
+Equipo:
+Procesador: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Sistema operativo: Windows 8
+Memoria instalada: 15.92 GB
+
+Información del software
+Versión de Parasolid: 29.0.122
+Versión de PSBodyShop: 29.0.68
+Versión de Step Adapter: 2.0.152
+Versión de Solid Edge: 109.00.00.111 x64
+
+Opciones de exportación de STEP
+Formato de exportación: AP214
+Exportar superficies de construcción: Desactivado
+Exportar sólidos de construcción: Desactivado
+Exportar curvas de construcción: Desactivado
+Exportar sólo piezas mostradas: Desactivado
+Exportar unidades: Millimeters
+Exportar nombres de componentes de pieza como Unicode: Desactivado
+
+Fase 1 de 1 Convirtiendo Parasolid a tipos de datos externos...
+Proceso de conversión completado
+Tiempo requerido para convertir:00 : 00 : 02

@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"418121160803";"";
+"TraceParts.PartVersion";"1.0.7";"";
+"SUPPLIER";"Wurth Elektronik";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"7856128";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"3 Way 3P DIP Switch, Flat Actuator";"";
+"TraceParts.InstanceId";"10-09102014-118961COOA7PPBZCZDWMID43WISLA0J";"";
+"TraceParts.PartTitle";"3 Way 3P DIP Switch, Flat Actuator";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TIMESTAMP";"08/10/2014 16:03";"";
+"REVISION";"A";"";
+"TraceParts.PartNumber";"10-09102014-118961";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/F_RS_COMPONENTS/PSSS_428047/PSS_428048/PSF_428072/10-09102014-118961";"";

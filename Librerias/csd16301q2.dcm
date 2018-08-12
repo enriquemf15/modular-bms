@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CSD16301Q2
+D 25-V N-Channel NexFET™ Power MOSFET
+K CSD
+F CSd16301Q2
+$ENDCMP
+#
+#End Doc Library

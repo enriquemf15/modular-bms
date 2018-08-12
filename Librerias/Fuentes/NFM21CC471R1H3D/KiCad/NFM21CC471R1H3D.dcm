@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NFM21CC471R1H3D
+D 0805 EMI Filter 1A 50Vdc 470pF Murata NFM21C Series, Signal Filter, 50 V dc, 1A 0805 SMD 2 x 1.25 x 0.85mm
+K
+F https://www.murata.com/en-us/products/productdata/8796770009118/E10863.pdf?1441769417000
+$ENDCMP
+#
+#End Doc Library

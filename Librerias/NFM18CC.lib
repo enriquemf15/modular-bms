@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model NFM18CC222R1C3D
+#/350755/9576/2.16/4/4/Filter
+DEF NFM18CC222R1C3D FL 0 30 Y Y 1 F N
+F0 "FL" 500 150 50 H V C CNN
+F1 "NFM18CC222R1C3D" 500 -250 50 H V C CNN
+F2 "NFM18CC" 500 -350 50 H I C CNN
+F3 "http://www.farnell.com/datasheets/1868472.pdf" 500 -450 50 H I C CNN
+F4 "Murata NFM18C Series, Signal Filter, 16 V dc, 700mA 0603 SMD 1.6 x 0.8 x 0.6mm" 500 -550 50 H I C CNN "Description"
+F5 "RS" 500 -650 50 H I C CNN "Supplier_Name"
+F6 "8712004P" 500 -750 50 H I C CNN "RS Part Number"
+F7 "Murata Electronics" 500 -850 50 H I C CNN "Manufacturer_Name"
+F8 "NFM18CC222R1C3D" 500 -950 50 H I C CNN "Manufacturer_Part_Number"
+F9 "" 500 -1050 50 H I C CNN "Allied_Number"
+F10 "" 500 -1150 50 H I C CNN "Other Part Number"
+F11 "" 850 -1250 50 H I C CNN "Height"
+DRAW
+S 200 100 800 -200 0 0 10 f
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2(1) 2 0 -100 200 R 50 50 0 0 U
+X 2(2) 3 1000 0 200 L 50 50 0 0 U
+X 3 4 1000 -100 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+#End Library

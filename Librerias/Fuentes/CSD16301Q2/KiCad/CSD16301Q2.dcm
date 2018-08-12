@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CSD16301Q2
+D Texas Instruments CSD16301Q2 N-channel MOSFET Transistor, 5 A, 25 V, 6-Pin SON
+K
+F http://www.farnell.com/datasheets/2060288.pdf
+$ENDCMP
+#
+#End Doc Library

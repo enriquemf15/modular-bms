@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model NFM21CC471R1H3D
+#/828095/9576/2.19/4/4/Filter
+DEF NFM21CC471R1H3D FL 0 30 Y Y 1 F N
+F0 "FL" 600 150 50 H V C CNN
+F1 "NFM21CC471R1H3D" 600 -250 50 H V C CNN
+F2 "NFM21_1" 600 -350 50 H I C CNN
+F3 "https://www.murata.com/en-us/products/productdata/8796770009118/E10863.pdf?1441769417000" 600 -450 50 H I C CNN
+F4 "0805 EMI Filter 1A 50Vdc 470pF Murata NFM21C Series, Signal Filter, 50 V dc, 1A 0805 SMD 2 x 1.25 x 0.85mm" 600 -550 50 H I C CNN "Description"
+F5 "RS" 600 -650 50 H I C CNN "Supplier_Name"
+F6 "7257424" 600 -750 50 H I C CNN "RS Part Number"
+F7 "Murata Electronics" 600 -850 50 H I C CNN "Manufacturer_Name"
+F8 "NFM21CC471R1H3D" 600 -950 50 H I C CNN "Manufacturer_Part_Number"
+F9 "" 600 -1050 50 H I C CNN "Allied_Number"
+F10 "" 600 -1150 50 H I C CNN "Other Part Number"
+F11 "" 1050 -1250 50 H I C CNN "Height"
+DRAW
+S 200 100 1000 -200 0 0 10 f
+X INPUT 1 0 0 200 R 50 50 0 0 U
+X GND(1) 2 0 -100 200 R 50 50 0 0 U
+X OUTPUT 3 1200 0 200 L 50 50 0 0 U
+X GND(2) 4 1200 -100 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+#End Library
